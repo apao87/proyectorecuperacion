@@ -38,8 +38,8 @@
 				else
 				{
 				  echo "No eres el administrador","<br>";
-				  echo "Usuario ".$reg['nombre']."<br>";
-				  echo "Password: ".$reg['contrasena']."<br>";
+				  //echo "Usuario ".$reg['nombre']."<br>";
+				  //echo "Password: ".$reg['contrasena']."<br>";
 				}
 				mysql_close($conexion);
 				

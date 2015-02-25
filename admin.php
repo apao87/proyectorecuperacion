@@ -9,7 +9,8 @@
 <a href="buscar.php">Buscar</a><br>
 <a href="altas.php">Altas</a><br>
 <a href="modificar.php">Modificar</a><br>
-<a href="delete.php">Borrar</a>
+<a href="delete.php">Borrar</a><br>
+<a href="buscartodo.php">Buscar todas las mareas</a>
 
 <?php
 
